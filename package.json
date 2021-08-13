@@ -1,0 +1,30 @@
+{
+  "name": "directing-master",
+  "version": "1.0.0",
+  "description": "Front-End ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirianQ/Trabalho_de_Conclus-o_de_Curso.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Mirian Queiroz miriansqueiroz10@gmail.com | Gabriel Beirigo gabrielbeirigoc@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirianQ/Trabalho_de_Conclus-o_de_Curso/issues"
+  },
+  "homepage": "https://github.com/MirianQ/Trabalho_de_Conclus-o_de_Curso#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3"
+  }
+}
